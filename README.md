@@ -2,7 +2,7 @@
 
 HTML and CSS are the base tech for web development or maybe that's what I think. Neverthless,
 I will be updating this repository with my mini projects which can be written fast and to be honest
-are very fun to make. 
+are very fun to make. I wish to see myself grow on this journey of Web dev and so you may find very basic codes in this repo. Deal with it and with me :>
 
 
 
