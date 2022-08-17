@@ -6,7 +6,6 @@ are very fun to make. I wish to see myself grow on this journey of Web dev and s
 
 
 
-
 ## What Will The Repo Have:
 
 - HTML and CSS from University lessons
